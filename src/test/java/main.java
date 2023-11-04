@@ -16,6 +16,11 @@ public class main {
         tire.tyrecolor="blue";
         tire.tyreModel="Yokohama";
         tire.tyreWidth="18";
+
+        CarFeature2 trunk =new CarFeature2();
+        trunk.trunkCapacity="60";
+        trunk.truckWidth=45.99;
+        trunk.trunkWeight =65.0;
     }
 
 
